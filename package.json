@@ -1,6 +1,6 @@
 {
     "name": "rasb.js",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "An unofficial Node.js module for interacting with the RASB API.",
     "main": "lib/index.js",
     "repository": {
